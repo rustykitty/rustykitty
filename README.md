@@ -4,6 +4,8 @@ You can click the Preview link to take a look at your changes.
 --->
 Hi! I'm Rusty. I really like cats.
 
+I have some knowledge in Python, TypeScript, JavaScript, C, and C++.
+
 ## Statistics
 
 [![Rusty's GitHub stats dark](https://github-readme-stats-nu-three-66.vercel.app/api?username=rustykitty&show_icons=true&count_private=true&theme=dark&cache_seconds=21600#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
