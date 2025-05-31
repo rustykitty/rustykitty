@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 Hi! I'm Rusty. I really like cats.
 
-I have some knowledge in Python, TypeScript, JavaScript, C, and C++.
+I have some knowledge in Python, TypeScript and JavaScript (specifically Node.js), C, and C++.
 
 ## Statistics
 
